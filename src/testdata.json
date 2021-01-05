@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Sample",
+      "page": 1,
+      "text": "",
+      "go to": [{ "page": 3, "text": "" }]
+    },
+    {
+      "title": "",
+      "page": 2,
+      "text": "",
+      "go to": [{ "page": 1, "text": "" }]
+    },
+    {
+      "title": "",
+      "page": 3,
+      "text": "",
+      "go to": [{ "page": 4, "text": "" }]
+    },
+    {
+      "title": "",
+      "page": 4,
+      "text": "",
+      "go to": []
+    }
+]
