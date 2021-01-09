@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Sample",
+      "page": 1,
+      "text": "hello this is the first part of your adventure",
+      "go to": [{ "page": 3, "text": "go to hell" }]
+    },
+    {
+      "title": "",
+      "page": 2,
+      "text": "another page!",
+      "go to": [{ "page": 1, "text": "go party" }]
+    },
+    {
+      "title": "",
+      "page": 3,
+      "text": "yippppeeeee",
+      "go to": [{ "page": 4, "text": "go away" }]
+    },
+    {
+      "title": "",
+      "page": 4,
+      "text": "test 4ß",
+      "go to": []
+    }
+]
