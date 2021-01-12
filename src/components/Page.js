@@ -1,7 +1,12 @@
-import react from 'react';
+import react from "react";
+import GoTo from "../components/GoTo";
 
 const Page = () => {
-    return <div>hello</div>
-}
+  return (
+    <div>
+      <GoTo />
+    </div>
+  );
+};
 
 export default Page;
